@@ -14,5 +14,5 @@ Something about me:
 
 Contacts:
 - 📫 How to reach me: vitoria@vitorialima.com
-- 💻 My website: \href[vitoriarlima.github.io](vitoriarlima.github.io)
+- 💻 My website: [vitoriarlima.github.io](vitoriarlima.github.io)
 
