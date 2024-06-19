@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Vitoria Lima** - welcome to my cute corner of the internet! This is a ✨ _special_ ✨ place where you will find all my notes and code, I hope that this can be of help for you! r
+My name is **Vitoria Lima** - welcome to my cute corner of the internet! This is a ✨ _special_ ✨ place where you will find all my notes and code, I hope that this can be of help for you! 
 
 Something about what I am working on:
 - 🔭 I’m currently working on tidying up ✨my many maths and AI notes✨
