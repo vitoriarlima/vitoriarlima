@@ -21,7 +21,7 @@ Something about me:
 
 Contacts:
 - 📫 How to reach me: vitoria@vitorialima.com
-- 💻 My website: [vitoriarlima.github.io](vitoriarlima.github.io)
+- 💻 My website: [vitoriarlima.github.io](https://vitoriarlima.github.io/)
 
 
 ## 📄 Sample Public Academic Works
