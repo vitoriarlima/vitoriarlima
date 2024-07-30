@@ -1,5 +1,11 @@
 # Vitoria Lima
 
+## 📄 Bio
+Multi-sector specialist with a Master's in Computational Science and Engineering from Harvard, specializing in data science methods and machine learning. Extensive experience in finance as a Trading Analyst at Bank of America Merrill Lynch, focusing on European Government Bonds and macro products. Delivered meaningful tech contributions in deep learning research at Harvard Microrobotics Lab and Hyundai ~Motional's R&D, enhancing self-driving car development.
+
+Currently working as a Machine Learning Engineer at Weights and Biases, guiding enterprise customers like OpenAI, NVIDIA, and Microsoft in optimizing their ML experiments. Fluent in multiple languages, with dual citizenship (Italian and Brazilian) and a US work permit. Recognized for academic and professional excellence with scholarships and awards. Proficient in Statistical Methods, Financial Fixed-Income Macro products, Time-Series Analysis, and various Machine Learning methods and financial products.
+
+## 🌱 More about me
 
 My name is **Vitoria Lima** - welcome to my cute corner of the internet! This is a ✨ _special_ ✨ place where you will find all my notes and code, I hope that this can be of help for you! 
 
