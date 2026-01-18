@@ -7,4 +7,4 @@ I have a Master’s degree in Computational Science and Engineering from Harvard
 This space is a home for product bets, experiments, notes.
 
 Website: https://vitorialima.com  
-My creativity baby: https://coconut-studios.co
+My creativity baby: https://coconutstudios.co
